@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: demo-job-quartz
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Me
+Implementation-Vendor-Id: com.tsiry
+Build-Jdk: 1.8.0_112
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/demo-job-quartz
+Created-By: Maven Integration for Eclipse
+
