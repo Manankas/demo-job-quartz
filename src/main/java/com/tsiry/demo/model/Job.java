@@ -10,7 +10,6 @@ import javax.persistence.Table;
 @Entity
 @Table(name="Job")
 public class Job {
-	
 	@Id
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
 	private Long id;
